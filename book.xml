@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<azs:Book xmlns:azs="http://amazon.in/sales/types" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://amazon.in/sales/types file:///D:/XML%20PROGRAM/Book.xsd" >
+	<azs:name>webservices</azs:name>
+	<price>100</price>
+	<Author>
+		<azs:name>vivek rajak</azs:name>
+		<azs:email>vivekcs@gmail.com</azs:email>
+	</Author>
+	<Publisher>
+		<azs:name>rakesh book deepo</azs:name>
+		<azs:email>rktent@gmail.com</azs:email>
+	</Publisher>
+</azs:Book>
